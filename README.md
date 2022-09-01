@@ -7,7 +7,8 @@
 ```
 
 ### Create BeanStalk
-![image](https://user-images.githubusercontent.com/112644031/187953924-98364568-449c-479e-bf86-9183e5bbee4d.png)
+![image](https://user-images.githubusercontent.com/112644031/187954021-2451ff92-7b34-4d2f-8f3c-311f15ba8b67.png)
+
 
 
 
