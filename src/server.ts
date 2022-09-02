@@ -39,7 +39,7 @@ import { Response ,Request} from 'express-serve-static-core';
           .send("The url entered is invalid. Please enter a new one");
       } else {
         const filteredPath = await filterImageFromURL(image_url);
-        res.sendFile(filteredPath);
+        res.status(200).sendFile(filteredPath);
         setTimeout(() => {
           deleteLocalFiles([filteredPath]);
         }, 2000);
